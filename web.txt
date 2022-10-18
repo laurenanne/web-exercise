@@ -1,0 +1,26 @@
+
+
+1. HTTP
+Hyper text transfer protocol - a type of protocol (set of rules or expectations for how we send and receive things)
+
+2. URL 
+Universal resource locators - contains all of the info to locate the website or file you're looking for
+
+3. DNS
+Domain Name System - phone book for the web
+
+4. A query string is extra information that the server is provided
+
+5. HTTP verbs
+GET and POST: GET requests are requests without side effects while POST requests are request with side effects.
+
+6. HTTP request: we either hit enter or submit a form or click a link to request information from the server. The request contains headers, resource URL, Http protocol, and a method.
+
+
+7. HTTP response: is the servers response to a request. A response contains headers, http protocol, response status, and content.
+
+8. HTTP header: is information included in both a request and response. Examples include language, hostname, date, cookies, etc. 
+
+9. When we type  “http://somesite.com/some/page.html” into a browser the browser checks for the site and the local computer cache and then goes to routers and looks on the server for the information. The server responds depending on what is found.   
+
+
